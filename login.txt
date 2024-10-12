@@ -1,4 +1,8 @@
 username = ranveer;
 password = 1234;
+<<<<<<< HEAD
  hi i am currrently on main branch
  
+=======
+ hi ranveer
+>>>>>>> feature1
